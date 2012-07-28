@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.6" type="plugin" group="system">
+	<name>GK Module Title Links</name>
+	<author>www.gavick.com</author>
+	<creationDate>29 July 2012</creationDate>
+	<copyright>All Rights Reserved.</copyright>
+	<license>license GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+	<authorEmail>test@gavick.com</authorEmail>
+	<authorUrl>http://www.gavick.com</authorUrl>
+	<version>1.0</version>
+	<description>Plugin which adds additional module options for module titles in GavickPRO Templates.</description>	
+	<files>
+			<filename plugin="plg_gkmodulelinks">plg_gkmodulelinks.php</filename>
+			<filename plugin="plg_gkmodulelinks">parameters.xml</filename>
+	</files>	
+
+</install>

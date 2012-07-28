@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+		<fields name="params">
+			<fieldset name="gk-titleparams" label="Module Title Links (GavickPro)">
+				<field name="module_link_switch" type="radio" label="Enable Module Title Link" description="Enable or disable module title Link" default="0">
+					<option value="0">JNo</option>
+					<option value="1">JYes</option>
+				</field>
+				<field name="module_link" type="text" default="" filter="raw" label="Module Title Address" description="Entering url here will turn module titles into clickable links" />
+			</fieldset>
+		</fields>
+</form>
